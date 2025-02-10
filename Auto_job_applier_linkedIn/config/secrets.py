@@ -1,24 +1,10 @@
-'''
-Author:     Sai Vignesh Golla
-LinkedIn:   https://www.linkedin.com/in/saivigneshgolla/
-
-Copyright (C) 2024 Sai Vignesh Golla
-
-License:    GNU Affero General Public License
-            https://www.gnu.org/licenses/agpl-3.0.en.html
-            
-GitHub:     https://github.com/GodsScion/Auto_job_applier_linkedIn
-
-version:    24.12.3.10.30
-'''
-
 
 ###################################################### CONFIGURE YOUR TOOLS HERE ######################################################
 
 
 # Login Credentials for LinkedIn (Optional)
-username = "chiiit1754@gmail.com"       # Enter your username in the quotes
-password = "wed01280814640"           # Enter your password in the quotes
+username = ""       # Enter your username in the quotes
+password = ""           # Enter your password in the quotes
 
 
 ## Artificial Intelligence (Beta Not-Recommended)
